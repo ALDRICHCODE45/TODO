@@ -1,5 +1,8 @@
-# Webpack configurado
+#ESTE ES UNA APLICAION DE TAREAS
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
 
-Pero esto lo veremos en la siguiente sección
+
+```
+puedes organizar tus tareas pendientes y despues filtrarlas por completadas
+
+```
